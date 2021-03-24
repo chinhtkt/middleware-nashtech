@@ -1,0 +1,40 @@
+E:\middleware homework\bin\Debug\net5.0\appsettings.Development.json
+E:\middleware homework\bin\Debug\net5.0\appsettings.json
+E:\middleware homework\bin\Debug\net5.0\middleware homework.exe
+E:\middleware homework\bin\Debug\net5.0\middleware homework.deps.json
+E:\middleware homework\bin\Debug\net5.0\middleware homework.runtimeconfig.json
+E:\middleware homework\bin\Debug\net5.0\middleware homework.runtimeconfig.dev.json
+E:\middleware homework\bin\Debug\net5.0\middleware homework.dll
+E:\middleware homework\bin\Debug\net5.0\ref\middleware homework.dll
+E:\middleware homework\bin\Debug\net5.0\middleware homework.pdb
+E:\middleware homework\bin\Debug\net5.0\middleware homework.Views.dll
+E:\middleware homework\bin\Debug\net5.0\middleware homework.Views.pdb
+E:\middleware homework\obj\Debug\net5.0\middleware homework.csprojAssemblyReference.cache
+E:\middleware homework\obj\Debug\net5.0\middleware homework.GeneratedMSBuildEditorConfig.editorconfig
+E:\middleware homework\obj\Debug\net5.0\middleware homework.AssemblyInfoInputs.cache
+E:\middleware homework\obj\Debug\net5.0\middleware homework.AssemblyInfo.cs
+E:\middleware homework\obj\Debug\net5.0\middleware homework.csproj.CoreCompileInputs.cache
+E:\middleware homework\obj\Debug\net5.0\middleware homework.MvcApplicationPartsAssemblyInfo.cache
+E:\middleware homework\obj\Debug\net5.0\middleware homework.RazorAssemblyInfo.cache
+E:\middleware homework\obj\Debug\net5.0\middleware homework.RazorAssemblyInfo.cs
+E:\middleware homework\obj\Debug\net5.0\staticwebassets\middleware homework.StaticWebAssets.Manifest.cache
+E:\middleware homework\obj\Debug\net5.0\staticwebassets\middleware homework.StaticWebAssets.xml
+E:\middleware homework\obj\Debug\net5.0\scopedcss\bundle\middleware homework.styles.css
+E:\middleware homework\obj\Debug\net5.0\middleware homework.TagHelpers.input.cache
+E:\middleware homework\obj\Debug\net5.0\middleware homework.TagHelpers.output.cache
+E:\middleware homework\obj\Debug\net5.0\middleware homework.RazorCoreGenerate.cache
+E:\middleware homework\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+E:\middleware homework\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+E:\middleware homework\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+E:\middleware homework\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\middleware homework\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\middleware homework\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\middleware homework\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\middleware homework\obj\Debug\net5.0\middleware homework.RazorTargetAssemblyInfo.cache
+E:\middleware homework\obj\Debug\net5.0\middleware homework.RazorTargetAssemblyInfo.cs
+E:\middleware homework\obj\Debug\net5.0\middleware homework.Views.pdb
+E:\middleware homework\obj\Debug\net5.0\middleware homework.dll
+E:\middleware homework\obj\Debug\net5.0\ref\middleware homework.dll
+E:\middleware homework\obj\Debug\net5.0\middleware homework.pdb
+E:\middleware homework\obj\Debug\net5.0\middleware homework.genruntimeconfig.cache
+E:\middleware homework\obj\Debug\net5.0\middleware homework.csproj.CopyComplete
